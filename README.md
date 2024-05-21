@@ -16,7 +16,7 @@
 
 💬 Ask me about **Selenium or RestAssured**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Every QA engineer secretly believes they could have been a detective. After all, they spend their days hunting for clues and solving mysteries.**
 
  </div>
  
@@ -34,7 +34,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️Technology-Stacks ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,maven,gherkin,postman,java,git,github,idea,ubuntu,linux" />
