@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NASA**
+ 🔭 I’m currently working on **NTT DATA**
  
  🌱 I’m currently learning **Automation API and WEB Testing**
 
