@@ -29,7 +29,7 @@ QA Engineer who builds fast, reliable automation for real-world systems
 <h2 align="center">🚀 About Me</h2>
 
 <div align="center">
-I focus on building fast, reliable automation for real-world systems.  
+I build automation that reduces testing time and improves system reliability.  
 Experienced in Web, API, and Database testing with strong QA mindset.  
 Working with production-level banking systems and critical validation.
 </div>
@@ -76,7 +76,7 @@ Working with production-level banking systems and critical validation.
 
 <b>🔹 Playwright E2E Automation</b>  
 Automation framework for real user scenarios  
-✔ Covers login, browsing, checkout flow  
+✔ Login, browsing, checkout flow  
 ✔ Fast execution with parallel testing  
 ✔ Scalable structure using Page Object Model  
 ✔ Simulates real user behavior  
@@ -146,11 +146,11 @@ Test early. Automate smart. Break systems before users do.
 
 <div align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=11neuty&show_icons=true&theme=react&border_radius=10"/>
+<img width="390" src="https://github-readme-stats-dun-three-60.vercel.app/api?username=11neuty&show_icons=true&theme=react&border_radius=10&v=1"/>
 
 <br/>
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11neuty&layout=compact&theme=react&border_radius=10"/>
+<img width="325" src="https://github-readme-stats-dun-three-60.vercel.app/api/top-langs/?username=11neuty&layout=compact&theme=react&border_radius=10&v=1"/>
 
 </div>
 
