@@ -170,10 +170,8 @@ Test early. Automate smart. Break systems before users do.
 
 <br/>
 
-<h2 align="center">🐍 Contributions</h2>
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/11neuty/11neuty/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=11neuty&theme=react"/>
 </div>
 
 <br/>
