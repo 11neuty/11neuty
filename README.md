@@ -122,9 +122,9 @@ API testing with RestAssured
 
 <div align="center">
 
-<!--START_SECTION:qa-->
-Test early. Automate smart. Break systems before users do.
-<!--END_SECTION:qa-->
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&vCenter=true&width=600&height=40&duration=4000&lines=Automation+that+adds+real+value.;Quality+is+built,+not+tested.;Fast+feedback,+better+systems." />
 
 </div>
 
