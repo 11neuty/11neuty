@@ -1,0 +1,12 @@
+{
+  "philosophies": [
+    "Test early. Automate smart.",
+    "Break systems before users do.",
+    "Quality is built, not tested.",
+    "Fast tests, reliable systems.",
+    "Automation should reduce effort, not add complexity.",
+    "Find bugs before users find them.",
+    "Good tests prevent bad releases.",
+    "Reliable systems come from strong testing."
+  ]
+}
