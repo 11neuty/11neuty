@@ -26,7 +26,7 @@ QA Engineer who builds fast, reliable automation for real-world systems
 
 <br/>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 About Me </h2>
 
 <div align="center">
 I build automation that reduces testing time and improves system reliability.  
